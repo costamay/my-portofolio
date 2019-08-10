@@ -1,0 +1,88 @@
+html{
+    
+}
+body{
+    background-color: gold;
+}
+#container{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 0px;
+}
+.top{
+    background-image: url("images/no1.jpeg");
+    height: 800px;
+    
+}
+#header{
+   
+}
+nav{
+    
+    text-align: center;
+
+}
+nav li{
+    display: inline-block;
+    border-left: 10px solid red;
+    padding-right: 30px;
+    
+}
+nav li a{
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    padding-right: 5px;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+}
+.skill{
+    width: 200px;
+    
+    
+}
+.flex{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+  
+}
+.about{
+    box-shadow: 5px 5px 10px gray;
+    width: 300px;
+    padding: 10px;
+}
+.about:hover{
+    opacity: 0.9;
+   
+    transform: scale(1.1);
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    float: right;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  

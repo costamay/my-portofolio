@@ -98,9 +98,14 @@ h1{
   #contact{
       background-color: yellowgreen;
       margin-top: 20px;
+      display: flex;
+  }
+  #contact span{
+      margin-bottom:20px;
   }
   #form{
       width: 200px;
+      padding: 5px;
   }
   .card-body ul li{
     list-style: lower-roman;
@@ -172,5 +177,7 @@ h1{
     background: #007bb5;
     color: white;
   }
-  
+  .copy{
+      text-align:center;
+  }
   

@@ -15,7 +15,7 @@ This is basically a portfolio website containing all about me. It has different 
 * 
 * 
 ## Support and contact details
-Feel free to contact me @ omosh on slack
+Feel free to contact me titusouko@gmail.com
 ### License
 MIT - <https://opensource.org/licenses/MIT>
 
